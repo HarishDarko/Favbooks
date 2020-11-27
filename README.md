@@ -1,2 +1,2 @@
 # Favbooks
-This site shows my details about my favourite books and authors.
+This site shows details about my favourite books and authors.
